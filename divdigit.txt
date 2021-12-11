@@ -1,9 +1,9 @@
 #include<stdio.h>
 int main()
 {
-int a=10;
-int b=20;
-int c;
+float a=10;
+float b=20;
+float c;
 c=a/b;
 printf("%d",c)
 }
